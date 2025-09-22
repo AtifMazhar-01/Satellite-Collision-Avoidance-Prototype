@@ -30,7 +30,7 @@ Our system aims to:
 
 1️⃣ Clone the repo  
 ```bash
-git clone https://github.com/<your-username>/satellite-collision-avoidance.git
+git clone https://github.com/AtifMazhar-01/satellite-collision-avoidance.git
 cd satellite-collision-avoidance
 ```
 
